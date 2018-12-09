@@ -1,0 +1,5 @@
+class Queue:
+
+    '''
+    Queue between ingress and egress pipelines in RMT simulator.
+    '''

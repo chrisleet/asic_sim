@@ -1,0 +1,7 @@
+def payload_store():
+
+    '''
+    Stores each packet's payload while its header is in the parser.
+    '''
+
+    def __init__():

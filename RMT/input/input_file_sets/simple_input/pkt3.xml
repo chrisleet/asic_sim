@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- PKT3 -->
+<packet>
+    <header>
+        <version>4</version>
+        <ihl>5</ihl>
+        <ttl>5</ttl>
+        <protocol>6</protocol>
+        <src_ip>10.0.0.2</src_ip>
+        <dst_ip>10.0.0.1</dst_ip>
+    </header>
+    <payload>Kutúzov chose this latter course. The French, the spy reported, having crossed the Vienna bridge, were advancing by forced marches toward Znaim, which lay sixty-six miles off on the line of Kutúzov’s retreat. If he reached Znaim before the French, there would be great hope of saving the army; to let the French forestall him at Znaim meant the exposure of his whole army to a disgrace such as that of Ulm, or to utter destruction. But to forestall the French with his whole army was impossible. The road for the French from Vienna to Znaim was shorter and better than the road for the Russians from Krems to Znaim. The night he received the news, Kutúzov sent Bagratión’s vanguard, four thousand strong, to the right across the hills from the Krems-Znaim to the Vienna-Znaim road. Bagratión was to make this march without resting, and to halt facing Vienna with Znaim to his rear, and if he succeeded in forestalling the French he was to delay them as long as possible. Kutúzov himself with all his transport took the road to Znaim.</payload>
+</packet>

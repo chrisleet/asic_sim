@@ -1,0 +1,5 @@
+class Deparser:
+
+    '''
+    Takes a pkt produced at the end of the pipeline
+    '''

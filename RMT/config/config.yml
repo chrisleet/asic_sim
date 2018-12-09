@@ -1,0 +1,22 @@
+########################
+# RMT Simulator Config #
+########################
+
+###################
+# 1. Links config #
+###################
+# This section lists where links to each file/directory the simulator reads or
+# stores files to can be found. The base "." directory is taken to be the 
+# asic_sim directory
+
+# INPUT_PKTS_PATH
+# Folder where the XML representation of input packets is stored
+input_pkts_path: "./RMT/input/input_file_sets/simple_input/"
+
+# DATA_BUFFER_PATH
+# Folder where packets buffered between ingress and egress pipelines
+data_buffer_path: "./RMT/data_buffer/"
+
+# OUTPUT_PKTS_PATH
+# Folder where the XML representation of output packets is tored
+output_pkts_path: "./RMT/output"

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<packet>
+	<header>
+		<version>4</version>
+		<ihl>5</ihl>
+		<ttl>4</ttl>
+		<protocol>6</protocol>
+		<src_ip>10.0.0.3</src_ip>
+		<dst_ip>10.0.0.5</dst_ip>
+	</header>
+	<payload>On November 1 Kutúzov had received, through a spy, news that the army he commanded was in an almost hopeless position. The spy reported that the French, after crossing the bridge at Vienna, were advancing in immense force upon Kutúzov’s line of communication with the troops that were arriving from Russia. If Kutúzov decided to remain at Krems, Napoleon’s army of one hundred and fifty thousand men would cut him off completely and surround his exhausted army of forty thousand, and he would find himself in the position of Mack at Ulm. If Kutúzov decided to abandon the road connecting him with the troops arriving from Russia, he would have to march with no road into unknown parts of the Bohemian mountains, defending himself against superior forces of the enemy and abandoning all hope of a junction with Buxhöwden. If Kutúzov decided to retreat along the road from Krems to Olmütz, to unite with the troops arriving from Russia, he risked being forestalled on that road by the French who had crossed the Vienna bridge, and encumbered by his baggage and transport, having to accept battle on the march against an enemy three times as strong, who would hem him in from two sides.</payload>
+</packet>
